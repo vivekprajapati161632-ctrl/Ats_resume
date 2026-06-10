@@ -77,7 +77,7 @@ def parse_resume(file_path: str) -> dict:
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-1.5-flash",
                 contents=f"Extract details from this raw resume text accurately:\n\n{raw_text}",
                 config=types.GenerateContentConfig(
                     system_instruction="You are an expert HR Data Extraction Assistant. Extract data exactly as written into the structure provided.",
