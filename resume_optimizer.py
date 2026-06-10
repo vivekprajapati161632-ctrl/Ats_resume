@@ -83,7 +83,7 @@ def optimize_resume(resume_json: dict, jd_text: str, diagnostics: dict) -> dict:
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-1.5-flash",
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     system_instruction="You are a premium executive ATS resume writer. Output exact valid structured format mapping back to requested schema.",
