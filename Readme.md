@@ -12,8 +12,7 @@ An AI-powered ATS Resume Builder that helps optimize resumes for job description
 </p>
 
 <p align="center">
-  <b>🚀 Click the thumbnail above to watch the complete demo</b>
-</p>
+ 
 
 ---
 
