@@ -3,6 +3,19 @@
 An AI-powered ATS Resume Builder that helps optimize resumes for job descriptions and improves ATS (Applicant Tracking System) compatibility.
 
 ---
+## 🎥 Project Demo
+
+<p align="center">
+  <a href="https://youtu.be/SnN-b_MQZWA">
+    <img src="https://img.youtube.com/vi/SnN-b_MQZWA/maxresdefault.jpg" alt="ATS Resume Analyzer Demo" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 Click the thumbnail above to watch the complete demo</b>
+</p>
+
+---
 
 ## 📋 Prerequisites
 
